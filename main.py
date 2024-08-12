@@ -19,6 +19,9 @@ def main():
             print(pow_num(args))
         elif command == 'sqrt':
             print(sqrt_num(args))
+        elif command in ('exit','close'):
+            print('Bye!')
+            break
         else:
             print('Unknown command.')
 
