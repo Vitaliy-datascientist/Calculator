@@ -2,8 +2,7 @@
 name = "calculator"
 version = "0.1.0"
 description = ""
-authors = ["Vitaliy-datascientist <vitaliy.dayneko2410@gmail.com>"]
-readme = "README.md"
+authors = ["data-tamer2410 <vitaliy.dayneko2410@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.12"
